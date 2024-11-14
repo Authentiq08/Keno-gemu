@@ -17,5 +17,10 @@ A fun 2D game where two players can compete against each other in a simple arena
 
 Here are some screenshots of the game in action:
 
-![Screenshot 1]([assets/screenshot1.png](https://github.com/Authentiq08/Keno-gemu/blob/main/assets/capture1.png))
-![Screenshot 2]([assets/screenshot2.png](https://github.com/Authentiq08/Keno-gemu/blob/main/assets/capture2.png))
+<p>
+  <img src="https://github.com/Authentiq08/Keno-gemu/blob/main/assets/capture1.png" style="width: 48%; display: inline-block; margin-right: 4%;" />
+  <img src="https://github.com/Authentiq08/Keno-gemu/blob/main/assets/capture2.png" style="width: 48%; display: inline-block;" />
+</p>
+
+
+
